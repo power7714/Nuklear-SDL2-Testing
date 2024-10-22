@@ -1,0 +1,10 @@
+# ninja log v6
+7	3304	7509321273890878	CMakeFiles/untitled1.dir/main.c.obj	2ee750088a7ff668
+12	118	7509271962988249	CMakeFiles/untitled1.dir/functions.c.obj	57593d8338c25841
+2	318	7511160635638948	build.ninja	3f81cd7cb984ae5c
+15	166	7511149866335358	CMakeFiles/ArithmeticGame.dir/functions.c.obj	9b4a0ce07344c61b
+1	16	7511160551747413	clean	f1c0810b4f0350db
+1	26	7511160717609442	clean	a51880d955d9781a
+15	206	7511160720956129	CMakeFiles/ArithmeticGame.dir/functions.c.obj	9b4a0ce07344c61b
+1	25	7511163133802972	clean	a51880d955d9781a
+24	174	7511163217655231	CMakeFiles/ArithmeticGame.dir/functions.c.obj	9b4a0ce07344c61b
